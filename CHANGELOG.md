@@ -13,6 +13,7 @@
  * Support for taffybar on multiple monitors (Ivan Malison)
  * Share a single X11Connection between all components to fix the `user error (openDisplay)` error (Ivan Malison)
  * d-bus toggling of taffybar per monitor (Ivan Malison)
+ * The freedesktop.org notifications widget can now show multiple notifications at once, in particular the default formatter now shows the number of pending notifications (Daniel Oliveira)
 
 ## Bug Fixes
 
