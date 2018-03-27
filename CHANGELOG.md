@@ -22,6 +22,7 @@
  * d-bus toggling of taffybar per monitor (Ivan Malison)
  * Add a pager config field that configures the construction of window switcher titles (Ivan Malison)
  * Quick start script for installing from git with stack (Ivan Malison)
+ * The freedesktop.org notifications widget now allows for notifications to never expire and can handle multiple notifications at once. In particular the default formatter now shows the number of pending notifications (Daniel Oliveira)
 
 ## Bug Fixes
 
