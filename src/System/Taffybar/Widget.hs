@@ -35,6 +35,8 @@ module System.Taffybar.Widget
   -- * "System.Taffybar.Widget.NetworkGraph"
   , module System.Taffybar.Widget.NetworkGraph
 
+  , module System.Taffybar.Widget.PulseAudioVolumeControl
+
   -- * "System.Taffybar.Widget.SNITray"
   , module System.Taffybar.Widget.SNITray
 
@@ -55,6 +57,8 @@ module System.Taffybar.Widget
 
   -- * "System.Taffybar.Widget.Text.NetworkMonitor"
   , module System.Taffybar.Widget.Text.NetworkMonitor
+
+    -- * "System.Taffybar.Widget.Text.NetworkMonitor"
 
   -- * "System.Taffybar.Widget.Weather"
   , WeatherConfig(..)
@@ -88,6 +92,7 @@ import System.Taffybar.Widget.FreedesktopNotifications
 import System.Taffybar.Widget.Layout
 import System.Taffybar.Widget.MPRIS2
 import System.Taffybar.Widget.NetworkGraph
+import System.Taffybar.Widget.PulseAudioVolumeControl
 import System.Taffybar.Widget.SNITray
 import System.Taffybar.Widget.SimpleClock
 import System.Taffybar.Widget.SimpleCommandButton

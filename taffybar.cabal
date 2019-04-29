@@ -146,6 +146,7 @@ library
                  , System.Taffybar.Widget.Layout
                  , System.Taffybar.Widget.MPRIS2
                  , System.Taffybar.Widget.NetworkGraph
+                 , System.Taffybar.Widget.PulseAudioVolumeControl
                  , System.Taffybar.Widget.SNITray
                  , System.Taffybar.Widget.SimpleClock
                  , System.Taffybar.Widget.SimpleCommandButton
